@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nguba2000
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web programming
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @nguba2000 Nathaniel Guba
+- 👀 I’m interested in Embedded Systems
+- 🌱 I’m currently learning web programming and Verilog
+- 💞️ I’m looking to collaborate at SDSU
 - 📫 How to reach me nguba4749@sdsu.edu, nguba00@gmail.com
 
 <!---
